@@ -1,0 +1,5 @@
+﻿  lab3.2.cpp
+D:\Files\univeersity\AP\Projects\lab3.2\lab3.2\lab3.2.cpp(7,15): warning C4101: 'b': unreferenced local variable
+D:\Files\univeersity\AP\Projects\lab3.2\lab3.2\lab3.2.cpp(7,18): warning C4101: 'c': unreferenced local variable
+D:\Files\univeersity\AP\Projects\lab3.2\lab3.2\lab3.2.cpp(7,9): warning C4101: 'x': unreferenced local variable
+  lab3.2.vcxproj -> D:\Files\univeersity\AP\Projects\lab3.2\Debug\lab3.2.exe
